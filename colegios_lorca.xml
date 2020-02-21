@@ -1,7 +1,7 @@
 <colegios-lorca>
 	<colegio_lorca>
 		<IdCentro>1</IdCentro>
-		<Centro>C.E.I.P  ALMENDRICOS</Centro>
+		<Centro>C.E.I.P. ALMENDRICOS</Centro>
 		<Localizacion>
 			<Direccion>C/ Trasvase  Nº 29</Direccion>
 			<Coordenadas>
@@ -283,7 +283,6 @@
 			<Pedania>Zarzadilla de Totana</Pedania>
 		</Localizacion>
 		<Contacto>
-			<Web>www.murciaeduca.es/cralorca</Web>
 			<Email>300012458@murciaeduca.es</Email>
 			<Telefono>968.494.079</Telefono>
 		</Contacto>

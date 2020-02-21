@@ -1,0 +1,829 @@
+<colegios-lorca>
+	<colegio_lorca>
+		<IdCentro>1</IdCentro>
+		<Centro>C.E.I.P  ALMENDRICOS</Centro>
+		<Localizacion>
+			<Direccion>C/ Trasvase  Nº 29</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7763841152191162</Longitud>
+				<Latitud>37.469534127265874</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpdealmendricos</Web>
+			<Email>30003494@murciaeduca.es</Email>
+			<Telefono>968.440.107</Telefono>
+			<Fax>968.440.107</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>2</IdCentro>
+		<Centro>C.E.I.P. ALFONSO GARCIA LOPEZ</Centro>
+		<Localizacion>
+			<Direccion>Crta/  RM-D26  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6713488101959229</Longitud>
+				<Latitud>37.577431358609445</Latitud>
+			</Coordenadas>
+			<Pedania>Purias</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpdepurias</Web>
+			<Email>30003822@murciaeduca.es</Email>
+			<Telefono>968.482.220</Telefono>
+			<Fax>968.482.261</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>3</IdCentro>
+		<Centro>C.E.I.P. PETRA GONZALEZ</Centro>
+		<Localizacion>
+			<Direccion>C/ Petra Gonzalez Nº 2</Direccion>
+			<Coordenadas>
+				<Longitud>-1.8338960409164429</Longitud>
+				<Latitud>37.86871322466696</Latitud>
+			</Coordenadas>
+			<Pedania>La Paca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cppetragonzalez</Web>
+			<Email>30003779@murciaeduca.es</Email>
+			<Telefono>968.491.023</Telefono>
+			<Fax>968.491.023</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>4</IdCentro>
+		<Centro>C.E.I.P. VILLAESPESA</Centro>
+		<Localizacion>
+			<Direccion>Cmno/ Villaespesa  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6449344158172607</Longitud>
+				<Latitud>37.68281841025</Latitud>
+			</Coordenadas>
+			<Pedania>Tercia</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpvillaespesa</Web>
+			<Email>300039500@murciaeduca.es</Email>
+			<Telefono>968.468.556</Telefono>
+			<Fax>968.468.556</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>5</IdCentro>
+		<Centro>C.E.I.P. TORRECILLA</Centro>
+		<Localizacion>
+			<Direccion>Crta/ de Granada  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7255079746246338</Longitud>
+				<Latitud>37.642909061242904</Latitud>
+			</Coordenadas>
+			<Pedania>Torrecilla</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cptorrecilla.es</Web>
+			<Email>30008303@murciaeduca.es</Email>
+			<Telefono>968.465.505</Telefono>
+			<Fax>968.465.505</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>6</IdCentro>
+		<Centro>C.C. CIUDAD DEL SOL</Centro>
+		<Localizacion>
+			<Direccion>Cmno/ San Julián Viejo  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6571545600891113</Longitud>
+				<Latitud>37.69441552836079</Latitud>
+			</Coordenadas>
+			<Pedania>Tercia</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.colegiociudadelsol.com</Web>
+			<Email>coopccs@hotmail.com</Email>
+			<Telefono>968.477.687</Telefono>
+			<Fax>968.469.492</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>7</IdCentro>
+		<Centro>C.E.I.P. NUESTRA SEÑORA DEL ROSARIO</Centro>
+		<Localizacion>
+			<Direccion>C/ Las Librilleras s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.4545351266860962</Longitud>
+				<Latitud>37.535019460169934</Latitud>
+			</Coordenadas>
+			<Pedania>Ramonete</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca@ramonete.es</Web>
+			<Email>30003895@murciaeduca.es</Email>
+			<Telefono>968.150.500</Telefono>
+			<Fax>968.158.060</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>8</IdCentro>
+		<Centro>C.E.I.P. SAN JUAN</Centro>
+		<Localizacion>
+			<Direccion>C/ Morata  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.4904230833053589</Longitud>
+				<Latitud>37.58875214055927</Latitud>
+			</Coordenadas>
+			<Pedania>Morata</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca/morata.es</Web>
+			<Email>30003706@murciaeduca.es</Email>
+			<Telefono>968.130.014</Telefono>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>9</IdCentro>
+		<Centro>C.E.I.P. LA ESCUCHA</Centro>
+		<Localizacion>
+			<Direccion>Crta/ de PulpÍ  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6974037885665894</Longitud>
+				<Latitud>37.544798494048095</Latitud>
+			</Coordenadas>
+			<Pedania>Escucha</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cplaescucha</Web>
+			<Email>30003640@murciaeduca.es</Email>
+			<Telefono>968.436.379</Telefono>
+			<Fax>968.443.214</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>10</IdCentro>
+		<Centro>C.E.I.P. NARCISO YEPES</Centro>
+		<Localizacion>
+			<Direccion>Cmno/ Condomina s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6433358192443848</Longitud>
+				<Latitud>37.66780927118792</Latitud>
+			</Coordenadas>
+			<Pedania>Marchena</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpnarcisoyepes</Web>
+			<Email>30003691@murciaeduca.es</Email>
+			<Telefono>968.472.660</Telefono>     
+			<Telefono>673.762.286</Telefono>
+			<Fax>968.477.979</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>11</IdCentro>
+		<Centro>C.E.I.P. JUAN NAVARRO GARCIA</Centro>
+		<Localizacion>
+			<Direccion>Cmn/ Escuelas Nuevas Nº 4</Direccion>
+			<Coordenadas>
+				<Longitud>-1.5862798690795898</Longitud>
+				<Latitud>37.71348959622512</Latitud>
+			</Coordenadas>
+			<Pedania>La Hoya</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.colegiojuannavarro.es</Web>
+			<Email>30003676@murciaeduca.es</Email>
+			<Telefono>968.481.949</Telefono>
+			<Fax>968.481.949</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>12</IdCentro>
+		<Centro>C.E.I.P. LA CAMPANA</Centro>
+		<Localizacion>
+			<Direccion>C/ La Campana  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6838693618774414</Longitud>
+				<Latitud>37.67689154297775</Latitud>
+			</Coordenadas>
+			<Pedania>Escucha</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cplacampana</Web>
+			<Email>30003810@murciaeduca.es</Email>
+			<Telefono>968.485.695</Telefono>
+			<Fax>968.485.695</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>13</IdCentro>
+		<Centro>C.E.I.P. VIRGEN DE LAS HUERTAS</Centro>
+		<Localizacion>
+			<Direccion>Vereda Alta</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6776064038276672</Longitud>
+				<Latitud>37.66103786087186</Latitud>
+			</Coordenadas>
+			<Pedania>Cazalla</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>ceipvirgendelashuertas@blogspost.com</Web>
+			<Email>30003962@murcieduca.es</Email>
+			<Telefono>968.468.627</Telefono>
+			<Fax>968.468.627</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>14</IdCentro>
+		<Centro>C.E.I.P. PASICO-CAMPILLO</Centro>
+		<Localizacion>
+			<Direccion>Crta/ La Almenara  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6901296377182007</Longitud>
+				<Latitud>37.64946725207324</Latitud>
+			</Coordenadas>
+			<Pedania>Campillo</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.murciaeduca.es/cppasicocampillo/sitio/</Web>
+			<Email>30003561@murciaeduca.es<Email>
+			<Email>pasico3@gmail.com</Email>
+			<Telefono>968.467.958</Telefono>
+			<Telefono>968.464.104</Telefono>
+			<Fax>968.467.958</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>17</IdCentro>
+		<Centro>C.R.A. GINES ARCAS ROMERA</Centro>
+		<Localizacion>
+			<Direccion>Crta/ de Lorca  Nº 18</Direccion>
+			<Coordenadas>
+				<Longitud>-1.8737804889678955</Longitud>
+				<Latitud>37.84112273265008</Latitud>
+			</Coordenadas>
+			<Pedania>Zarcilla de Ramos</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.499.488</Telefono>
+			<Fax>968.499.488</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>18</IdCentro>
+		<Centro>C.E.I.P. SAN MIGUEL</Centro>
+		<Localizacion>
+			<Direccion>C/ Grupo Escolar  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7084196209907532</Longitud>
+				<Latitud>37.880330415737625</Latitud>
+			</Coordenadas>
+			<Pedania>Zarzadilla de Totana</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.494.079</Telefono>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>19</IdCentro>
+		<Centro>C.E.I.P. ANDRES MANJON</Centro>
+		<Localizacion>
+			<Direccion>Crta/ de Coy  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.800781488418579</Longitud>
+				<Latitud>37.90817922717761</Latitud>
+			</Coordenadas>
+			<Pedania>Avilés</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.491.407</Telefono>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>20</IdCentro>
+		<Centro>C.E.I.P. VIRGEN DEL ROSARIO</Centro>
+		<Localizacion>
+			<Direccion>C/ Consultorio s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.8129479885101318</Longitud>
+				<Latitud>37.949815301916324</Latitud>
+			</Coordenadas>
+			<Pedania>Coy</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.499.022</Telefono>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>21</IdCentro>
+		<Centro>C.E.I.P. NUESTRA SEÑORA DE LA ASUNCIÓN</Centro>
+		<Localizacion>
+			<Direccion>Paraje de la Fuensanta</Direccion>
+			<Coordenadas>
+				<Longitud>-1.8974632282441917</Longitud>
+				<Latitud>37.72887754769361</Latitud>
+			</Coordenadas>
+			<Pedania>La Tova</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.495.028</Telefono>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>22</IdCentro>
+		<Centro>C.E.I.P. SAN JOSE- EL CONSEJERO</Centro>
+		<Localizacion>
+			<Direccion>Rambla del Cambrón (El Consejero)</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6968357000000651</Longitud>
+				<Latitud>37.6735925</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cralorca</Web>
+			<Email>300012458@murciaeduca.es</Email>
+			<Telefono>968.439.193</Telefono>
+			<Fax>968.439.193</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>23</IdCentro>
+		<Centro>C.E.I.P. ANA CAICEDO RICHARD</Centro>
+		<Localizacion>
+			<Direccion>C/ Francisco  Escobar Barberan Nº 35</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7022478580474854</Longitud>
+				<Latitud>37.66244175871034</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.murciaeduca.es/ceipanacaicedo/sitio/</Web>
+			<Email>300018783@murciaeduca.es</Email>
+			<Telefono>968.478.335</Telefono>
+			<Fax>968.478.335</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>24</IdCentro>
+		<Centro>C.E.I.P. ANDRES GARCIA SOLER</Centro>
+		<Localizacion>
+			<Direccion>Cañada de Guevara nº 67</Direccion>
+			<Coordenadas>
+				<Longitud>-1.705402135848999</Longitud>
+				<Latitud>37.669571463192376</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.murciaeduca.es/cpandresgarciasoler/sitio/</Web>
+			<Email>30011818@murciaeduca.es</Email>
+			<Telefono>968.443.606</Telefono>
+			<Fax>968.111.350</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>25</IdCentro>
+		<Centro>C.E.I.P. CASA DEL NIÑO</Centro>
+		<Localizacion>
+			<Direccion>C/ Mayor de Santa Maria  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7005795240402222</Longitud>
+				<Latitud>37.678453972286036</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.murciaeduca.es/cpcasadelnino/sitio/</Web>
+			<Email>30003342@murciaeduca.es</Email>
+			<Telefono>968.467.889</Telefono>
+			<Fax>968.467.889</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>26</IdCentro>
+		<Centro>C.E.I.P. JOSE ROBLES</Centro>
+		<Localizacion>
+			<Direccion>Alameda de los Tristes. Nº 18</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6948449611663818</Longitud>
+				<Latitud>37.67014469735507</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Email>30003305@murciaeduca.es</Email>
+			<Telefono>968.468.726</Telefono>
+			<Fax>968.472.325</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>27</IdCentro>
+		<Centro>C.E.I.P. JUAN GONZALEZ</Centro>
+		<Localizacion>
+			<Direccion>Cañada de Morales Nº 12</Direccion>
+			<Coordenadas>
+				<Longitud>-1.689123809337616</Longitud>
+				<Latitud>37.68539959123707</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpjuangonzalez/sitio</Web>
+			<Email>30008005@murciaeduca.es</Email>
+			<Telefono>968.469.160</Telefono>
+			<Fax>968.478.757</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>28</IdCentro>
+		<Centro>C.E.I.P. PEREZ DE HITA</Centro>
+		<Localizacion>
+			<Direccion>C/ Don Diego Pallares Cachá  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7100369930267334</Longitud>
+				<Latitud>37.662972582222636</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpperezdehita/sitio</Web>
+			<Email>30008443@murciaeduca.es</Email>
+			<Telefono>968.469.423</Telefono>
+			<Fax>968.478.019</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>29</IdCentro>
+		<Centro>C.E.I.P. SAGRADO CORAZON</Centro>
+		<Localizacion>
+			<Direccion>C/ Rafael Maroto  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6927474737167358</Longitud>
+				<Latitud>37.68041969937517</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpsagradocorazon</Web>
+			<Email> 30003317@murciaeduca.es</Email>
+			<Telefono>968.466.636</Telefono>
+			<Fax>968.929.000</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>30</IdCentro>
+		<Centro>C.E.I.P. SAN CRISTOBAL</Centro>
+		<Localizacion>
+			<Direccion>C/ Abellaneda s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.693342924118042</Longitud>
+				<Latitud>37.68607458921182</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpsancristoballorca</Web>
+			<Email>30010851@murciaeduca.es</Email>
+			<Telefono>968.462.111</Telefono>
+			<Fax>968.115.016</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>31</IdCentro>
+		<Centro>C.E.I.P. SAN FERNANDO</Centro>
+		<Localizacion>
+			<Direccion>C/ POETA PARA VICO S/N</Direccion>
+			<Coordenadas>
+				<Longitud>-1.693444848060608</Longitud>
+				<Latitud>37.6683145787162</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/ceipsanfernado.com</Web>
+			<Email>30003329@murciaeduca.es</Email>
+			<Telefono>968.465.022</Telefono>
+			<Fax>967.465.571</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>32</IdCentro>
+		<Centro>C.E.I.P. ALFONSO X EL SABIO</Centro>
+		<Localizacion>
+			<Direccion>C/ Maestro Alejandro Isaac Del Castillo s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7050641775131226</Longitud>
+				<Latitud>37.665728556881746</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpalfonsox</Web>
+			<Email> 30003299@murciaeduca.es</Email>
+			<Telefono>968.466.445</Telefono>
+			<Fax>968.115.034</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>33</IdCentro>
+		<Centro>C.C. MADRE DE DIOS</Centro>
+		<Localizacion>
+			<Direccion>C/ Cava Nº 13</Direccion>
+			<Coordenadas>
+				<Longitud>-1.698586642742157</Longitud>
+				<Latitud>37.677747062014426</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.mercedarias-lorca.net</Web>
+			<Email> mercedarias@mercedarias-lorca.net</Email>
+			<Telefono>968.442.311</Telefono>
+			<Fax>968.442.407</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>34</IdCentro>
+		<Centro>C.C.SAN FRANCISCO DE ASIS</Centro>
+		<Localizacion>
+			<Direccion>C/ NOGALTE Nº 3</Direccion>
+			<Coordenadas>
+				<Longitud>-1.699833869934082</Longitud>
+				<Latitud>37.6726201688528</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.colegiosanfranciscolorca.es</Web>
+			<Email>col.sanfranciscodeasis@hotmail.com</Email>
+			<Telefono>968.466.206</Telefono>
+			<Fax>968.477.529</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>35</IdCentro>
+		<Centro>C.E.I.P. SAN JOSE</Centro>
+		<Localizacion>
+			<Direccion>Alameda de Los Tristes  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6949254274368286</Longitud>
+				<Latitud>37.669439831018806</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/cpsanjose</Web>
+			<Email>30003330@murciaeduca.es</Email>
+			<Telefono>968.460.454</Telefono>
+			<Fax>968.466.635</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>36</IdCentro>
+		<Centro>C.P.E.E. PILAR SOUBRIER</Centro>
+		<Localizacion>
+			<Direccion>C/ Diego Pallares Cacha  Nº 4</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7101925611495972</Longitud>
+				<Latitud>37.6627729930273</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/ceepilarsoubrier/sitio</Web>
+			<Email>30010097@murciaeduca.es</Email>
+			<Telefono>968.467.372</Telefono>
+			<Fax>968.444.446</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>37</IdCentro>
+		<Centro>C. EDUCACION INFANTIL ELIOSOL</Centro>
+		<Localizacion>
+			<Direccion>C/ Abellaneda  Nº 106</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6935601830482483</Longitud>
+				<Latitud>37.68597694837536</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Email>rosario.jodar2@murciaeduca.es</Email>
+			<Telefono>968.466.612</Telefono>
+			<Fax>968.466.612</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>45</IdCentro>
+		<Centro>C.I.F.P. (CENTRO INTEGRADO DE FORMACIÓN PROFESIONAL)</Centro>
+		<Localizacion>
+			<Direccion>C/ Antonio Pelegrín Medina Nº 2A</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6863799095153809</Longitud>
+				<Latitud>37.68418542847428</Latitud>
+			</Coordenadas>
+		</Localizacion>
+		<Contacto>
+			<Web>cifplorca.es/portal</Web>
+			<Email>cifplorca@cifplorca.es</Email>
+			<Telefono>968.472.042</Telefono>
+			<Telefono>968.471.869</Telefono>
+			<Fax>968.479.093</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<colegio_lorca>
+		<IdCentro>46</IdCentro>
+		<Centro>C.I.F.E.A. (CENTRO INTEGRADO DE FORMACIÓN Y EXPERIENCIAS AGRARIAS)</Centro>
+		<Localizacion>
+			<Direccion>Crta de Aguilas Km 2,5</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6881662607192993</Longitud>
+				<Latitud>37.654623307920445</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.carm.es/cagric</Web>
+			<Email>mdolores.martinez6@carm.es</Email>
+			<Telefono>968.468.550</Telefono>
+			<Fax>968.468.423</Fax>
+		</Contacto>
+	</colegio_lorca>
+	<instituto_lorca>
+		<IdCentro>15</IdCentro>
+		<Centro>I.E.S.O. SIERRA DE ALMENARA</Centro>
+		<Localizacion>
+			<Direccion>Crta de Pulpí  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.671692132949829</Longitud>
+				<Latitud>37.57967609658827</Latitud>
+			</Coordenadas>
+			<Pedania>Purias</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/iessierraalmenara</Web>
+			<Email>300013529@murciaeduca.es</Email>
+			<Telefono>968.482.245</Telefono>
+			<Fax>968.482.539</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>16</IdCentro>
+		<Centro>I.E.S.O. PEDANIAS ALTAS</Centro>
+		<Localizacion>
+			<Direccion>Cañada del Aljibe  Nº 10</Direccion>
+			<Coordenadas>
+				<Longitud>-1.8379837274551392</Longitud>
+				<Latitud>37.8774363461245</Latitud>
+			</Coordenadas>
+			<Pedania>La Paca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.murciaeduca.es/iesopedaniasaltas</Web>
+			<Email>300013530@murciaeduca.es</Email>
+			<Telefono>968.491.242</Telefono>
+			<Fax>968.491.405</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>39</IdCentro>
+		<Centro>I.E.S. JOSE IBAÑEZ MARTIN</Centro>
+		<Localizacion>
+			<Direccion>C/ Jerónimo Santa Fe s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.699533462524414</Longitud>
+				<Latitud>37.66960517798642</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.iesimartin.com</Web>
+			<Email>30003457@murciaeduca.es</Email>
+			<Telefono>968.466.185</Telefono>
+			<Fax>968.470.515</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>40</IdCentro>
+		<Centro>I.E.S. FRANCISCO ROS GINER</Centro>
+		<Localizacion>
+			<Direccion>C/ Maria Agustina  s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.699088215827942</Longitud>
+				<Latitud>37.66822116077692</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.iesrosginer.es</Web>
+			<Email>30003445@murciaeduca.es</Email>
+			<Telefono>968.468.252</Telefono>
+			<Fax>968.468.248</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>41</IdCentro>
+		<Centro>I.E.S. RAMON ARCAS MECA</Centro>
+		<Localizacion>
+			<Direccion>Avd Juan  Carlos I  Nº 72</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6943299770355225</Longitud>
+				<Latitud>37.67670048278823</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.iesramonarcas.es</Web>
+			<Email>centro@iesramonarcas.es</Email>
+			<Email>30011697@murciaeduca.es</Email>
+			<Telefono>968.477.056</Telefono>
+			<Fax>968.478.026</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>42</IdCentro>
+		<Centro>I.E.S. PRINCIPE DE ASTURIAS</Centro>
+		<Localizacion>
+			<Direccion>C/ Juan Antonio Dimas Nº 3</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6897809505462646</Longitud>
+				<Latitud>37.67886155712898</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.iesprincipe.com</Web>
+			<Email>30011833@murciaeduca.es</Email>
+			<Telefono>968.444.121</Telefono>
+			<Fax>968.444.121</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>43</IdCentro>
+		<Centro>I.E.S. SAN JUAN BOSCO</Centro>
+		<Localizacion>
+			<Direccion>C/ Francisco de Goya s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.7118662595748901</Longitud>
+				<Latitud>37.65964744116039</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>http://www.iessanjuanbosco.es</Web>
+			<Email>iessanjuanbosco@iessanjuanbosco.es</Email>
+			<Telefono>968.466.236</Telefono>
+			<Telefono>968.466.619</Telefono>
+			<Fax>968.406.641</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>44</IdCentro>
+		<Centro>I.E.S. BARTOLOME PEREZ CASAS</Centro>
+		<Localizacion>
+			<Direccion>C/ Antonio Pelegrín Casanova Nº 12</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6867876052856445</Longitud>
+				<Latitud>37.6877854056186</Latitud>
+			</Coordenadas>
+			<Pedania>Lorca</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>murciaeduca.es/iesbartolomeperezcasas/sitio</Web>
+			<Email>30019064@murciaeduca.es</Email>
+			<Telefono>968.471.351</Telefono>
+			<Telefono>633.162.258</Telefono>
+			<Fax>968.470.081</Fax>
+		</Contacto>
+	</instituto_lorca>
+	<instituto_lorca>
+		<IdCentro>49</IdCentro>
+		<Centro>I.E.S. CIUDAD DEL SOL</Centro>
+		<Localizacion>
+			<Direccion>Cmno. de San Julián viejo s/n</Direccion>
+			<Coordenadas>
+				<Longitud>-1.6968357000000651</Longitud>
+				<Latitud>37.6735925</Latitud>
+			</Coordenadas>
+			<Pedania>Tercia</Pedania>
+		</Localizacion>
+		<Contacto>
+			<Web>www.colegiociudaddelsol.com</Web>
+			<Email>colegioccs@hotmail.com</Email>
+			<Telefono>968.477.687</Telefono>
+			<Fax>968.469.492</Fax>
+		</Contacto>
+	</instituto_lorca>
+</colegios-lorca>

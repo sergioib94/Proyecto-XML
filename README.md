@@ -1,4 +1,4 @@
-# Proyecto-XML
+# Proyecto-XML-Colegios de Lorca
 
 **1. Listar informacion**: Mostrar las los colegios que hay en Lorca.
 **2. Contar informacion**: Contar los colegios que hay en Lorca.

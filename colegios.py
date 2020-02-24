@@ -1,10 +1,25 @@
+import math
+
 def Listar (doc):
     lista = doc.xpath('//Centro/text()')
     return lista
 
+def Contar (doc):
+    return int(doc.xpath('count(//Centro)')) - int(doc.xpath('count(//Contacto/Web)'))
+
 def Buscar (pedania,doc):
     pedanias = doc.xpath ('//Localizacion[Pedania="%s"]/../Centro/text()' %pedania)
     return pedanias
+
+def Distancias (doc,doc2,km):
+    #(lat1, lon1, lat2, lon2)
+    rad=math.pi/180
+    dlat=lat2-lat1
+    dlon=lon2-lon1
+    R=6372.795477598
+    a=(math.sin(rad*dlat/2))**2 + math.cos(rad*lat1)*math.cos(rad*lat2)*(math.sin(rad*dlon/2))**2
+    distancia=2*R*math.asin(math.sqrt(a))
+    return distancia
 
 from lxml import etree
 doc = etree.parse ('colegios_lorca.xml')
@@ -30,6 +45,9 @@ while True:
         for colegios in Listar (doc):
             print ("*",colegios)
 
+    if opcion == "2":
+        print (Contar(doc),"colegios no cuentan con pagina web")
+
     if opcion == "4":
         pedania = input("Introduce una pedania: ")
 
@@ -38,6 +56,12 @@ while True:
 
         for pedanias in Buscar (pedania,doc):
             print ("*",pedanias)
+    
+    if opcion == "5":
+        pedania = input("Introduce la pedania: ")
+        km = int(input("Radio de cercania: "))
+
+        
 
     if opcion == "0":
         break;

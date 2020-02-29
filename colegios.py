@@ -7,6 +7,21 @@ def Listar (doc):
 def Contar (doc):
     return int(doc.xpath('count(//Centro)')) - int(doc.xpath('count(//Contacto/Web)'))
 
+def Filtrar (cadena,doc):
+    colegios = []
+    contactos = []
+
+    for colegio in doc.xpath('//Centro[contains(text(),"%s")]/text()' %cadena):
+        colegios.append(colegio)
+
+    for contacto in doc.xpath('//colegio_lorca[Centro = Centro[contains(text(),"%s")]/text()]/./Contacto/*/text()' %cadena):
+        contactos.append(contacto)
+
+    for contacto2 in doc.xpath('//instituto_lorca[Centro = Centro[contains(text(),"%s")]/text()]/./Contacto/*/text()' %cadena):
+        contactos.append(contacto2)
+    
+    return (colegios,contactos)
+
 def Buscar (pedania,doc):
     pedanias = doc.xpath ('//Localizacion[Pedania="%s"]/../Centro/text()' %pedania)
     return pedanias
@@ -48,6 +63,13 @@ while True:
     if opcion == "2":
         print (Contar(doc),"colegios no cuentan con pagina web")
 
+    if opcion == "3":
+        cadena = input("Introduce una cadena: ")
+
+        for datos in Filtrar(cadena,doc):
+            for i in datos:
+                print (i)
+    
     if opcion == "4":
         pedania = input("Introduce una pedania: ")
 

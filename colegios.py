@@ -1,43 +1,9 @@
-import math
-
-def Listar (doc):
-    lista = doc.xpath('//Centro/text()')
-    return lista
-
-def Contar (doc):
-    return int(doc.xpath('count(//Centro)')) - int(doc.xpath('count(//Contacto/Web)'))
-
-def Filtrar (cadena,doc):
-    colegios = []
-    contactos = []
-
-    for colegio in doc.xpath('//Centro[contains(text(),"%s")]/text()' %cadena):
-        colegios.append(colegio)
-
-    for contacto in doc.xpath('//colegio_lorca[Centro = Centro[contains(text(),"%s")]/text()]/./Contacto/*/text()' %cadena):
-        contactos.append(contacto)
-
-    for contacto2 in doc.xpath('//instituto_lorca[Centro = Centro[contains(text(),"%s")]/text()]/./Contacto/*/text()' %cadena):
-        contactos.append(contacto2)
-    
-    return (colegios,contactos)
-
-def Buscar (pedania,doc):
-    pedanias = doc.xpath ('//Localizacion[Pedania="%s"]/../Centro/text()' %pedania)
-    return pedanias
-
-def Distancias (doc,doc2,km):
-    #(lat1, lon1, lat2, lon2)
-    rad=math.pi/180
-    dlat=lat2-lat1
-    dlon=lon2-lon1
-    R=6372.795477598
-    a=(math.sin(rad*dlat/2))**2 + math.cos(rad*lat1)*math.cos(rad*lat2)*(math.sin(rad*dlon/2))**2
-    distancia=2*R*math.asin(math.sqrt(a))
-    return distancia
+from lxml import etree
+from func_Lorca import *
+doc = etree.parse ('colegios_lorca.xml')
 
 from lxml import etree
-doc = etree.parse ('colegios_lorca.xml')
+doc2 = etree.parse ('parques_lorca.xml')
 
 while True:
     print ("")
@@ -67,8 +33,8 @@ while True:
         cadena = input("Introduce una cadena: ")
 
         for datos in Filtrar(cadena,doc):
-            for i in datos:
-                print (i)
+            print (datos["Nombre"])
+            print (datos["Contactos"])
     
     if opcion == "4":
         pedania = input("Introduce una pedania: ")
@@ -80,10 +46,15 @@ while True:
             print ("*",pedanias)
     
     if opcion == "5":
-        pedania = input("Introduce la pedania: ")
-        km = int(input("Radio de cercania: "))
+        parque = input("Introduce nombre del parque: ")
+        #km = int(input("Radio de cercania: "))
 
-        
+        print(Distancias(parque,doc,doc2))
+
+    if opcion == "6":
+        print ("Estas son las pedanias de Lorca:")
+        for i in Listado_pedanias(doc):
+            print ("*",i)
 
     if opcion == "0":
         break;
